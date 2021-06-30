@@ -1,0 +1,36 @@
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: red;
+}
+
+a:visited{
+    color: white;
+}
+.origami{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+}
+
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:white;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    background-color: whitesmoke;
+}
